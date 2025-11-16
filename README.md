@@ -9,7 +9,26 @@ Desktop View
 
 
 
+
 Mobile View
 
 <img width="445" height="794" alt="Screenshot 2025-11-16 174541" src="https://github.com/user-attachments/assets/7afc1b2f-f005-4176-abcd-ad1f27470492" />
 <img width="445" height="787" alt="Screenshot 2025-11-16 174555" src="https://github.com/user-attachments/assets/b69c3a8f-b6f4-447f-b36c-e0b69cf10399" />
+
+
+Instructions for backend installation:
+
+1. Load Maven
+2. Enable annotation processing
+3. Run TaskmanagerApplication
+
+Instructions for frontend installation:
+
+Run in terminal:
+
+1. cd frontend
+2. npm install
+3. npmm install react-scripts@5.0.1
+4. npm audit fix --force (if needed)
+5. npm start
+6. Open Local: http://localhost:3000
