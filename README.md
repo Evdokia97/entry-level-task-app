@@ -19,8 +19,9 @@ Mobile View
 Instructions for backend installation:
 
 1. Load Maven
-2. Enable annotation processing
-3. Run TaskmanagerApplication
+2. Exclude directories (if needed)
+3. Enable annotation processing
+4. Run TaskmanagerApplication
 
 Instructions for frontend installation:
 
@@ -28,7 +29,6 @@ Run in terminal:
 
 1. cd frontend
 2. npm install
-3. npmm install react-scripts@5.0.1
-4. npm audit fix --force (if needed)
-5. npm start
-6. Open Local: http://localhost:3000
+3. npm audit fix --force (if needed)
+4. npm start
+5. Open Local: http://localhost:3000
