@@ -3,13 +3,12 @@ The goal is to create a simple task management application using React for the f
 
 Desktop View
 
-<img width="1896" height="896" alt="image" src="https://github.com/user-attachments/assets/d5937c96-5a08-422b-a218-cf61bf356c1b" />
+<img width="1896" height="896" alt="Screenshot 2025-11-16 174400" src="https://github.com/user-attachments/assets/4cf8f989-481a-482e-b172-6afa5bedcbc7" />
 
-<img width="1899" height="907" alt="image" src="https://github.com/user-attachments/assets/c9ac206b-6c0c-478e-85f9-ea8f35ece494" />
+<img width="1899" height="907" alt="Screenshot 2025-11-16 174523" src="https://github.com/user-attachments/assets/4b82d15d-3d77-47b1-af58-41aba14edb91" />
 
 
 Mobile View
 
-<img width="445" height="794" alt="image" src="https://github.com/user-attachments/assets/3fdec6a6-28ef-4117-b6e9-4b36b9b565ca" />
-
-<img width="445" height="787" alt="image" src="https://github.com/user-attachments/assets/092ec6ed-d7f2-491e-813e-e3fe650e0814" />
+<img width="445" height="794" alt="Screenshot 2025-11-16 174541" src="https://github.com/user-attachments/assets/7afc1b2f-f005-4176-abcd-ad1f27470492" />
+<img width="445" height="787" alt="Screenshot 2025-11-16 174555" src="https://github.com/user-attachments/assets/b69c3a8f-b6f4-447f-b36c-e0b69cf10399" />
