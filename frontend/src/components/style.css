@@ -1,0 +1,51 @@
+.task-list-header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.p-dialog.p-dialog-primary {
+    width: 25% !important;
+    max-width: 25%;
+}
+
+@media (max-width: 768px) {
+    .p-dialog.p-dialog-primary {
+        width: 75% !important;
+        max-width: 75%;
+    }
+}
+
+.taskform-dialog-content {
+    padding: 1.5rem 1rem;
+}
+
+.taskform-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.taskform-grid {
+    display: grid;
+    column-gap: 2%;
+    justify-items: center;
+}
+
+.taskform-field {
+    width: 100%;
+    padding-bottom: 5%;
+    display: inline-grid;
+}
+
+.taskform-label {
+    margin-bottom: 8px;
+}
+
+.taskform-required {
+    color: red;
+}
+
+.taskform-submit {
+    justify-self: end;
+}
